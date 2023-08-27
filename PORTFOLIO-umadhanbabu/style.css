@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    padding-left: 43px;
+    font-size: 25px;
+    color: black;
+}
+
+.main {
+    -webkit-text-fill-color: black;
+    height: auto;
+    width: auto;
+    margin: 10px;
+    padding-left: 2px;
+    padding-top: 2px;
+}
+
+
+
+.container {
+    background-color: white;
+    height: 150vh;
+    width: auto;
+    padding-top: 5px;
+}
+
+.infoContainer {
+    background-color: white;
+    height: 100px;
+    width: auto;
+    margin: 3px auto;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.devpic img {
+
+    width: 250px;
+    padding: 45px;
+
+}
+
+.buttons {
+    margin-top: 34px;
+    margin-left: 34px;
+}
+
+
+.buttons button {
+    padding: 9px 14px;
+    border-radius: 22px;
+    border: solid black;
+    color: black;
+    background-color: blueviolet;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0 3px;
+    cursor: pointer;
+}
+
+.Hello {
+    padding-top: 12px;
+    padding-left: 43px;
+    text-rendering: black;
+    font-size: 17px;
+    text-decoration-line: unset;
+}
+
+.Getintouch form {
+    text-align: center;
+    padding-top: 155px;
+
+}
+
+.Getintouch form div {
+    padding: 15px 0px;
+}
+
+.Getintouch form div input {
+    border-radius: 5px;
+    margin: 6px 0;
+    text-rendering: black;
+    border: solid black;
+
+
+
+}
